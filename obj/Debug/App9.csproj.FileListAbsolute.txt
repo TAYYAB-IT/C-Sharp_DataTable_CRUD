@@ -1,0 +1,12 @@
+E:\5th\C#\App9\obj\Debug\App9.csproj.AssemblyReference.cache
+E:\5th\C#\App9\obj\Debug\App9.csproj.SuggestedBindingRedirects.cache
+E:\5th\C#\App9\obj\Debug\App9.Form1.resources
+E:\5th\C#\App9\obj\Debug\App9.Properties.Resources.resources
+E:\5th\C#\App9\obj\Debug\App9.csproj.GenerateResource.cache
+E:\5th\C#\App9\obj\Debug\App9.csproj.CoreCompileInputs.cache
+E:\5th\C#\App9\bin\Debug\App9.exe.config
+E:\5th\C#\App9\bin\Debug\App9.exe
+E:\5th\C#\App9\bin\Debug\App9.pdb
+E:\5th\C#\App9\obj\Debug\App9.exe
+E:\5th\C#\App9\obj\Debug\App9.pdb
+E:\5th\C#\App9\obj\Debug\App9.Form2.resources
