@@ -24,7 +24,7 @@ namespace App9
             table.Columns.Add("Age");
             records_view.DataSource=table;
         }
-        //Insertion
+        //After Editing
         public Form1(DataTable table)
         {
             InitializeComponent();
@@ -34,6 +34,7 @@ namespace App9
             records_view.DataSource = this.table;
             records_view.Refresh();
         }
+        //Insertion
         private void add_record_Click(object sender, EventArgs e)
         {
             if (!String.IsNullOrWhiteSpace(Roll_No.Text) && !String.IsNullOrWhiteSpace(Name.Text) && !String.IsNullOrWhiteSpace(Age.Text))
